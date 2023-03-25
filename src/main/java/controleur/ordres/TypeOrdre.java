@@ -1,0 +1,6 @@
+package controleur.ordres;
+
+public enum TypeOrdre {
+    SHOW_CREDIT, SHOW_HOMEPAGE, SHOW_DEBIT, SHOW_HISTORIQUE,
+    LOAD_SOLDE, LOAD_COMPTE, LOAD_HISTORIQUE
+}
